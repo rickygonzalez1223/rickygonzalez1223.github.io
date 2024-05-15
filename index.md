@@ -10,11 +10,12 @@ My GitHub page is http://github.com/rickygonzalez1223.
 
 * Lab 4
 
-    Lab 4, part 1 was a favorite if not my favorite because I'm an engineering major therefore I have a lot of math and physics classes,
+    Lab 4, part 1 was one of my favorites if not my favorite lab because I'm an engineering major therefore I have a lot of math and physics classes,
     this lab I was able to apply to my field because in physics and my calculus class I get a lot of word problems involving units and I
     always have to convert them which is why I thought this lab was very interesting and fun. In this lab I learned how to plug in an equation
-    into my code so that when you input a number it'll convert the units for you, saving you all the math in between. This lab was just something
-    I would definitely be able to implement into my daily life.
+    into my code so that when you input a number it'll convert it into different units for you, saving you all the math in between. Additionally this
+    lab we started using a functions.cc file which was a little difficult at first but once defined the function for all our units in the functions.cc
+    file we were able to work with our units.cc file and get it running! This lab was just something I would definitely be able to implement into my         daily life for my major and homework!
 
 * Lab 5
 
